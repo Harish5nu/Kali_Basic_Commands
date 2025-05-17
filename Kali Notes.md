@@ -1,5 +1,3 @@
-# Kali Notes
-
 ## Basic Commands
 
 ### 1. **File & Directory Commands**
